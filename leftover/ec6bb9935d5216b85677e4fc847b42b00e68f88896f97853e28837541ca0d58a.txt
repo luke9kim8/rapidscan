@@ -1,0 +1,147 @@
+Microsoft (R) COFF/PE Dumper Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file ..\file-feed\ec6bb9935d5216b85677e4fc847b42b00e68f88896f97853e28837541ca0d58a
+
+PE signature found
+
+File Type: EXECUTABLE IMAGE
+
+FILE HEADER VALUES
+             14C machine (x86)
+               7 number of sections
+        5DB7EF63 time date stamp Tue Oct 29 16:50:59 2019
+               0 file pointer to symbol table
+               0 number of symbols
+              E0 size of optional header
+             102 characteristics
+                   Executable
+                   32 bit word machine
+
+OPTIONAL HEADER VALUES
+               0 magic # (Unknown)
+           14.00 linker version
+          11DC00 size of code
+           98A00 size of initialized data
+               0 size of uninitialized data
+           B3D53 entry point (004B3D53)
+            1000 base of code
+
+
+SECTION HEADER #1
+   .text name
+  11DAE8 virtual size
+    1000 virtual address (00401000 to 0051EAE7)
+  11DC00 size of raw data
+     400 file pointer to raw data (00000400 to 0011DFFF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+60000020 flags
+         Code
+         Execute Read
+
+SECTION HEADER #2
+  .rdata name
+   5315A virtual size
+  11F000 virtual address (0051F000 to 00572159)
+   53200 size of raw data
+  11E000 file pointer to raw data (0011E000 to 001711FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+  Debug Directories
+
+        Time Type        Size      RVA  Pointer
+    -------- ------- -------- -------- --------
+    5DB7EF63 cv            66 0016CDDC   16BDDC    Format: RSDS, {FD1A84C7-E98D-4D1A-AC16-7BF00014EA36}, 1, E:\workcode\ZhuoMian\ChengXu\Trunk\Bin\pdbmap\Pudding\PuddingServicesHost.pdb
+    5DB7EF63 feat          14 0016CE44   16BE44    Counts: Pre-VC++ 11.00=459, C/C++=451, /GS=451, /sdl=0, guardN=329
+    5DB7EF63 coffgrp      3C8 0016CE58   16BE58
+
+SECTION HEADER #3
+   .data name
+    EEE8 virtual size
+  173000 virtual address (00573000 to 00581EE7)
+    9C00 size of raw data
+  171200 file pointer to raw data (00171200 to 0017ADFF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0000040 flags
+         Initialized Data
+         Read Write
+
+SECTION HEADER #4
+  .gfids name
+     198 virtual size
+  182000 virtual address (00582000 to 00582197)
+     200 size of raw data
+  17AE00 file pointer to raw data (0017AE00 to 0017AFFF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+SECTION HEADER #5
+    .tls name
+       9 virtual size
+  183000 virtual address (00583000 to 00583008)
+     200 size of raw data
+  17B000 file pointer to raw data (0017B000 to 0017B1FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0000040 flags
+         Initialized Data
+         Read Write
+
+SECTION HEADER #6
+   .rsrc name
+   28238 virtual size
+  184000 virtual address (00584000 to 005AC237)
+   28400 size of raw data
+  17B200 file pointer to raw data (0017B200 to 001A35FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+40000040 flags
+         Initialized Data
+         Read Only
+
+SECTION HEADER #7
+  .reloc name
+    DF34 virtual size
+  1AD000 virtual address (005AD000 to 005BAF33)
+    E000 size of raw data
+  1A3600 file pointer to raw data (001A3600 to 001B15FF)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42000040 flags
+         Initialized Data
+         Discardable
+         Read Only
+
+  Summary
+
+        F000 .data
+        1000 .gfids
+       54000 .rdata
+        E000 .reloc
+       29000 .rsrc
+      11E000 .text
+        1000 .tls

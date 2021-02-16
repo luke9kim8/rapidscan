@@ -1,0 +1,425 @@
+{
+    "005b52216724b9622d1fc78d7d7ca2710b7a19aac211291266b2c1a559595f5b.dll": {
+        "fakedll": [],
+        "installed": [
+            "libjpeg-62.dll",
+            "liblzo2-2.dll",
+            "libqca-qt5.dll",
+            "veyon-core.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "veyon-core.dll",
+            "libjpeg-62.dll",
+            "liblzo2-2.dll",
+            "zlib1.dll",
+            "libgcc_s_sjlj-1.dll",
+            "libqca-qt5.dll"
+        ],
+        "type": "32dll"
+    },
+    "041b327f5bd19c13bbefd7bd5b6c017a3839a2e0279b584734d3891a1c8ccb80.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "asl.dll",
+            "corefoundation.dll",
+            "cfnetwork.dll",
+            "libdispatch.dll",
+            "pthreadvc2.dll",
+            "zlib1.dll"
+        ],
+        "type": "32dll"
+    },
+    "06de753a0352fbc667f00d0c70f39fe40c37b8e70f4699844fecf726712ca628.exe": {
+        "fakedll": [],
+        "installed": [
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libatk-1.0-0.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "liblzma-5.dll",
+            "libpango-1.0-0.dll",
+            "libpangocairo-1.0-0.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "15acd83aa32a9d44b64e7cdd1784e99d8731f21ad6de153ec18c0b60623c5b88.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libcrypto-3.dll",
+            "zlib1.dll"
+        ],
+        "type": "64dll"
+    },
+    "16e468aac4c722a63c3e5e5d8a8aca3406c155113c553937b2e1b69b18cc5ed5.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libcurl-4.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "libjpeg-9.dll",
+            "libpixman-1-0.dll",
+            "libpng15-15.dll",
+            "libusb-1.0.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "1cb58134b24451bf74a071ee12e101c094560248137e5dc323d8e39a61e63097.exe": {
+        "fakedll": [],
+        "installed": [
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libcrypto-1_1.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "libssl-1_1.dll"
+        ],
+        "type": "32exe"
+    },
+    "269387318d6ed00a07568a7b509aa6b0f146dd7ce146c38be0f373a66dc9bfbd.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libiconv-2.dll",
+            "libintl-8.dll",
+            "libpcre2-8-0.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "27719e8bd06504f353b7e953e13ef33f09213e1b82d349d26ab027604a884aad.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "dl2.dll",
+            "dlmgr.dll",
+            "jansson.dll",
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "mmconv_2.dll",
+            "mmcore.dll",
+            "mmplay.dll",
+            "mmpreset.dll",
+            "parender.dll",
+            "qtglrender.dll",
+            "tier0.dll",
+            "wbrhelper.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "471843f750226b5aa57c0bc248e0e7af7d8dd8e4d099df8f1f458c592c119755.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "zlib1.dll",
+            "intl.dll",
+            "glib-2.0.dll",
+            "gmodule-2.0.dll",
+            "gobject-2.0.dll"
+        ],
+        "type": "32dll"
+    },
+    "4db62b897399fb30dcc45fbc72da11b694b556f9959dc384084b74cfec1ede33.exe": {
+        "fakedll": [],
+        "installed": [
+            "liblzo2-2.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl2.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libcurl-4.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgnutls-30.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "liblzo2-2.dll",
+            "libncursesw6.dll",
+            "libnettle-6.dll",
+            "libpixman-1-0.dll",
+            "libpng16-16.dll",
+            "libusb-1.0.dll",
+            "libusbredirparser-1.dll",
+            "zlib1.dll",
+            "libgcc_s_sjlj-1.dll"
+        ],
+        "type": "32exe"
+    },
+    "6333516fd6ca50fc72e4b4ba7acf4d7c8b985064c33cc20789e986fc7fcb3370.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "64dll"
+    },
+    "6409cc042bfc7aed407fb2af9581391b37b81a38113e10c9d030aa11bdb67c62.dll": {
+        "fakedll": [],
+        "installed": [
+            "libjpeg-62.dll"
+        ],
+        "required": [
+            "libjpeg-62.dll",
+            "libswipl.dll"
+        ],
+        "type": "64dll"
+    },
+    "6dcf8692e9a9fb126698575612f23287d35598f2e04477b55aabc9e55483d64f.exe": {
+        "fakedll": [],
+        "installed": [
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libeay32.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "ssleay32.dll"
+        ],
+        "type": "32exe"
+    },
+    "738f3c6ba631d00d25ea92af469d7ac7068ccf89037df24155f266093013fe8e.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "libjpeg-9.dll",
+            "libpixman-1-0.dll",
+            "libpng15-15.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "73a142b8f489c057948ba04aa0f3dfbcad6283eb90234e058eb05e4ba6c05e9c.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libevent-2-0-5.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "ab6ed8bc0c9639241510e6a1f3ffabe1af3444aab33d32dd847ea9ff14f65011.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libcocos2d.dll",
+            "lua51.dll",
+            "glew32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "b005816e14a3a7d6786eaec842ce6024b0309ac878d3bc72fddb52b8eb4e80a3.exe": {
+        "fakedll": [],
+        "installed": [
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libcrypto-1_1.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "libssl-1_1.dll"
+        ],
+        "type": "32exe"
+    },
+    "b1aadb3d97a7a704d8fddb7f8535a0617415b768bc780eec8e84cf3cb5f6dc0e.exe": {
+        "fakedll": [],
+        "installed": [
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libatk-1.0-0.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "liblzma-5.dll",
+            "libpango-1.0-0.dll",
+            "libpangocairo-1.0-0.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "b5a87e2ea603827649fb0a14a33b3d2a71a1af8318a8a1359cca072f17793a08.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libgcc_s_dw2-1.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32dll"
+    },
+    "b6a696fdd89e6ab202652725116d62c2746148182b074a8f11502c81e2b82215.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libevent-2-0-5.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "d11e9f5efad66fa29244cd4b766c0977b121b930e7e06e18d6d236d841977654.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "glew32.dll",
+            "zlib1.dll",
+            "physfs.dll",
+            "openal32.dll",
+            "lua51.dll",
+            "vorbisfile.dll",
+            "boost_filesystem-vc142-mt-x64-1_73.dll",
+            "boost_thread-vc142-mt-x64-1_73.dll"
+        ],
+        "type": "64exe"
+    },
+    "e04c92ccf2d859e6825275ff44268811241c3710f30c70bac117fd86768d50c4.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libcrypto-3.dll",
+            "zlib1.dll"
+        ],
+        "type": "64dll"
+    },
+    "e4420557cf76cdab9d7526465db436504999769e203fd29eefacc74ca534da9f.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libgdk-win32-2.0-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgthread-2.0-0.dll",
+            "libgtk-win32-2.0-0.dll",
+            "intl.dll",
+            "libpng14-14.dll",
+            "zlib1.dll",
+            "libgcc_s_sjlj-1.dll",
+            "pdcurses.dll"
+        ],
+        "type": "32exe"
+    },
+    "e81c1de1614b11718931677df0a001cf28e220109c7bd378ea96e962c93468b5.dll": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "asl.dll",
+            "corefoundation.dll",
+            "cfnetwork.dll",
+            "libdispatch.dll",
+            "pthreadvc2.dll",
+            "zlib1.dll"
+        ],
+        "type": "32dll"
+    },
+    "f34347a5d41c6f5305f09aaefd0b7b8d16910d96a44a6f13c3f8f71c11341738.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "zlib1.dll",
+            "libintl-8.dll",
+            "libpq.dll"
+        ],
+        "type": "64exe"
+    },
+    "fb2ff6af140bdac85fe0eca0ccbaabe16581bc2f1f2349fdfbe22e434a071faa.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libiconv-2.dll",
+            "libintl-8.dll",
+            "libpcre2-8-0.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    }
+}

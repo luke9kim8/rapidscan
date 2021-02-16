@@ -1,0 +1,14 @@
+qtcore4.dll
+qtgui4.dll
+comn.dll
+tftp.dll
+kernel32.dll
+advapi32.dll
+msvcp80.dll
+msvcr80.dll
+ws2_32.dll
+iphlpapi.dll
+psapi.dll
+shlwapi.dll
+winhttp.dll
+wininet.dll

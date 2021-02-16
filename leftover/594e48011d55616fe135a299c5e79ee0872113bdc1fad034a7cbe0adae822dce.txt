@@ -1,0 +1,12 @@
+Microsoft (R) COFF/PE Dumper Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file ..\file-feed\594e48011d55616fe135a299c5e79ee0872113bdc1fad034a7cbe0adae822dce
+
+PE signature found
+
+File Type: EXECUTABLE IMAGE
+LINK : warning LNK4030: invalid file offset 0xB140AB40 for ??????????y; category not dumped
+
+LINK : fatal error LNK1000: Internal error during ReadOptionalHeader

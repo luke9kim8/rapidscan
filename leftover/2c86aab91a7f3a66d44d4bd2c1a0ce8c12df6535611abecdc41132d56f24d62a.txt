@@ -1,0 +1,9 @@
+Microsoft (R) COFF/PE Dumper Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file ..\file-feed\2c86aab91a7f3a66d44d4bd2c1a0ce8c12df6535611abecdc41132d56f24d62a
+..\file-feed\2c86aab91a7f3a66d44d4bd2c1a0ce8c12df6535611abecdc41132d56f24d62a : warning LNK4048: Invalid format file; ignored
+
+  Summary
+

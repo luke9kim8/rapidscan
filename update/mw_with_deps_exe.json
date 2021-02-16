@@ -1,0 +1,1794 @@
+{
+    "01966a799f71e30e2e18c4caec060113653425d704977ab4edb014301ce6004d.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "liveupdate.dll"
+        ],
+        "type": "32exe"
+    },
+    "02e57993b7ddb4db8025eabe8223bc742dcd5e0daa178f5f25632ce0fae3d277.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "cximage.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "sgbdmyss.dll",
+            "7zpp_a.dll"
+        ],
+        "type": "32exe"
+    },
+    "03955a2aa8d5e9d4c43f3715830eb602d9e54a84e677c2db902e61722cd1e8ad.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "dbrtl70.bpl",
+            "dbrtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "vclx70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "vcl70.bpl",
+            "rtl70.bpl",
+            "bdertl70.bpl",
+            "dbrtl70.bpl",
+            "dbrtl70.bpl",
+            "bdertl70.bpl",
+            "bdertl70.bpl",
+            "dbrtl70.bpl",
+            "bdertl70.bpl",
+            "vclx70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "rtl70.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "tdbf_d7r.bpl",
+            "vcldb70.bpl",
+            "vcldb70.bpl",
+            "vcldb70.bpl",
+            "vcldb70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl",
+            "vclsmp70.bpl",
+            "vcl70.bpl",
+            "vcldb70.bpl",
+            "vclx70.bpl",
+            "vclsmp70.bpl",
+            "vcl70.bpl",
+            "vcldb70.bpl",
+            "vclx70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "indy70.bpl",
+            "vcl70.bpl",
+            "vcl70.bpl"
+        ],
+        "type": "32exe"
+    },
+    "05c4ddfdfbb05fe53974828a357d0c532fe2c24854735a7a8c2f3a6b02a9a35a.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "xmlkds.dll",
+            "xmltable.dll",
+            "rdsapi.dll",
+            "gridexpo.dll",
+            "flexexpo.dll",
+            "lineitem.dll",
+            "binman.dll",
+            "binproj.dll",
+            "xmlbin.dll",
+            "qsrdb.dll",
+            "printerstation.dll",
+            "xmlrds.dll"
+        ],
+        "type": "32exe"
+    },
+    "06c2311436c887659595fec65e1935a0e1444bab2479b64d71bbf976a499a072.exe": {
+        "fakedll": [],
+        "installed": [
+            "crtdll.dll"
+        ],
+        "required": [
+            "avzscanner.dll",
+            "bsapi.dll",
+            "crtdll.dll"
+        ],
+        "type": "32exe"
+    },
+    "06de753a0352fbc667f00d0c70f39fe40c37b8e70f4699844fecf726712ca628.exe": {
+        "fakedll": [],
+        "installed": [
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libatk-1.0-0.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "liblzma-5.dll",
+            "libpango-1.0-0.dll",
+            "libpangocairo-1.0-0.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "07376a1a6b7cc628952d3b970c98b383e48d56c69cc9fc3913609843ca711371.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "pxlicensemanager.dll",
+            "ijl20.dll",
+            "mc3adv.dll",
+            "vli3.dll"
+        ],
+        "type": "32exe"
+    },
+    "0db34cbb0fa40f9c205c7dfd60cfdaed6ed5c559b863de0fbbe18ba4c5069045.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libvorbisfile.dll",
+            "portaudio.dll",
+            "libsndfile-1.dll"
+        ],
+        "type": "32exe"
+    },
+    "123942770aa69697f89753f64fa1078319e1b6504f4d3d5702265971c3ec1d69.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "cximage.dll",
+            "sgbdmyss.dll"
+        ],
+        "type": "32exe"
+    },
+    "16e468aac4c722a63c3e5e5d8a8aca3406c155113c553937b2e1b69b18cc5ed5.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libcurl-4.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "libjpeg-9.dll",
+            "libpixman-1-0.dll",
+            "libpng15-15.dll",
+            "libusb-1.0.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "18679a6cdd67b5d31087cf396195987952d89c9f313a4a33fc602ba8cd36c92f.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libwazuhext.dll"
+        ],
+        "type": "32exe"
+    },
+    "1cb58134b24451bf74a071ee12e101c094560248137e5dc323d8e39a61e63097.exe": {
+        "fakedll": [],
+        "installed": [
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libcrypto-1_1.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "libssl-1_1.dll"
+        ],
+        "type": "32exe"
+    },
+    "1e08c4404ec0ee51920c5d838009f9d55b42f7192da265239ee6e8254a080bff.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "drmq.dll",
+            "bugsplat64.dll"
+        ],
+        "type": "64exe"
+    },
+    "1ed54618bd0074faf21f45c78b8614dd088e393de5ea0bd59bc0dce8d86658c2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "cygbz2-1.dll",
+            "cygwin1.dll",
+            "cygz.dll",
+            "cyggcc_s-1.dll"
+        ],
+        "type": "32exe"
+    },
+    "269387318d6ed00a07568a7b509aa6b0f146dd7ce146c38be0f373a66dc9bfbd.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libiconv-2.dll",
+            "libintl-8.dll",
+            "libpcre2-8-0.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "27719e8bd06504f353b7e953e13ef33f09213e1b82d349d26ab027604a884aad.exe": {
+        "fakedll": [],
+        "installed": [
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "dl2.dll",
+            "dlmgr.dll",
+            "jansson.dll",
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "mmconv_2.dll",
+            "mmcore.dll",
+            "mmplay.dll",
+            "mmpreset.dll",
+            "parender.dll",
+            "qtglrender.dll",
+            "tier0.dll",
+            "wbrhelper.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "290703b34fe4573b242c3e271cc90568992abe6fb3fa9333a7341044a759fc74.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcr90.dll"
+        ],
+        "required": [
+            "steam_api.dll",
+            "msvcr90.dll",
+            "d3dx9_27.dll"
+        ],
+        "type": "32exe"
+    },
+    "2fa2b0ea4863ae9f08b3bbff12d8a93b0fa60e2e567a2e6bef843bc2731f3fe6.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "hcrypt.dll",
+            "hssl.dll",
+            "htmlayout.dll",
+            "lua5.1.dll",
+            "sqlite30.dll"
+        ],
+        "type": "32exe"
+    },
+    "30fbe8706605b9a87579adc3a4ffd1339b2941dbad2b7dc7395f3a531d322db1.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "ipworksssl9.dll",
+            "ipworkszip8.dll",
+            "ltkrn15u.dll",
+            "ltdis15u.dll",
+            "ltfil15u.dll"
+        ],
+        "type": "32exe"
+    },
+    "33ecf8bf8b09790d48f264a17ea1599d8535281283640157198facd5f119cf4a.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "openal32.dll"
+        ],
+        "type": "32exe"
+    },
+    "3600e2c7373763ba31314a3be0afb5598f14e19783364a7bacf5c706cb59b18c.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "d3dx9_43.dll"
+        ],
+        "type": "32exe"
+    },
+    "39fe87397fe7800882b5fe309e61a375b655898ff411f0cbd2be5504ae6b1289.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "d3dx9_42.dll",
+            "x3daudio1_6.dll",
+            "steam_api.dll",
+            "binkw32.dll",
+            "steamclient.dll"
+        ],
+        "type": "32exe"
+    },
+    "3a4ca963be47c72b2ca561a8b34a5dcb292cb1859469e4c3ae97a9c82ff185d7": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "memory.dll",
+            "dice_py.dll",
+            "bf2voipserver.dll",
+            "msvcp71.dll",
+            "msvcr71.dll"
+        ],
+        "type": "32exe"
+    },
+    "3caf242080b7da49d4ac461dda161878bfd6309a820cf11cfecf67a459cb12fb.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "log4cxx.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "gsoap.dll",
+            "zlibwapi.dll",
+            "ziparchive.dll"
+        ],
+        "type": "32exe"
+    },
+    "405186a81b8a1f4577c76fce832501d8b4351fbe33ce5333bdd6354a7768ced0.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "s2012rs.dll",
+            "tablonanuncios.dll"
+        ],
+        "type": "32exe"
+    },
+    "46f8ecd092f52d7a5a8b436d411314796002c43b42dd39ca7c9580ea54f8f374.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "adbwinapi.dll"
+        ],
+        "type": "32exe"
+    },
+    "4d7a7a6c5862ab82eb45e30305e70ffe6f153187e1189f12379b1d0bc7212de2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "lua53-32.dll"
+        ],
+        "type": "32exe"
+    },
+    "4db62b897399fb30dcc45fbc72da11b694b556f9959dc384084b74cfec1ede33.exe": {
+        "fakedll": [],
+        "installed": [
+            "liblzo2-2.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl2.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libcurl-4.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgnutls-30.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "liblzo2-2.dll",
+            "libncursesw6.dll",
+            "libnettle-6.dll",
+            "libpixman-1-0.dll",
+            "libpng16-16.dll",
+            "libusb-1.0.dll",
+            "libusbredirparser-1.dll",
+            "zlib1.dll",
+            "libgcc_s_sjlj-1.dll"
+        ],
+        "type": "32exe"
+    },
+    "5129cc7ef76bd76817905439c65056bc3c4daef3021fd7898f9e0f057103c532.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "devil.dll",
+            "ilu.dll",
+            "libcef.dll",
+            "nvcuda.dll",
+            "avcodec-58.dll",
+            "avformat-58.dll",
+            "avutil-56.dll",
+            "swresample-3.dll",
+            "swscale-5.dll",
+            "sketchupapi.dll"
+        ],
+        "type": "64exe"
+    },
+    "54dff2f200c5ee890703b88bc6d369a7e397fc362e00d85697d934b32f92b172.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libcef.dll"
+        ],
+        "type": "64exe"
+    },
+    "573195554a4dc07ca526e4e3e13e9950d434e7414f8b2bff83f8211d23dcdbd7.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "lua53-64.dll"
+        ],
+        "type": "64exe"
+    },
+    "5db498a8cb670550555eac82ac4b4b97810212f125c90e2cf65f5142f9b53828.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "toastdrivecore.dll",
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "type": "64exe"
+    },
+    "6359874ffaf1081613a4d641bc3c5561c642253ead5ec0e67794db36f46b28c1.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "miktex209-cairo.dll",
+            "miktex209-jpeg.dll",
+            "miktex209-png.dll",
+            "miktex209-web2c.dll",
+            "miktex209-zzip.dll",
+            "miktex209-kpathsea.dll",
+            "miktex209-app.dll",
+            "miktex209-getopt.dll",
+            "miktex209-unxemu.dll",
+            "miktex209-core.dll",
+            "miktex209-md5.dll",
+            "miktex209-util.dll",
+            "miktex209-zlib.dll",
+            "miktex209-utf8wrap.dll"
+        ],
+        "type": "32exe"
+    },
+    "68330e3dd06b6fc1bfa6516f38dce347d8cb296c94fd67d408a7a50ce97af0d2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "openal32.dll"
+        ],
+        "type": "32exe"
+    },
+    "686a890ea60435b02c9b67164a22a89d47dd6ce0baf63085fa9619c9da433d09.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "mediainfo.dll",
+            "picconvert.dll",
+            "mfc120u.dll",
+            "bcgcbpro2420u120.dll"
+        ],
+        "type": "32exe"
+    },
+    "6dcf8692e9a9fb126698575612f23287d35598f2e04477b55aabc9e55483d64f.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll",
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libeay32.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "ssleay32.dll"
+        ],
+        "type": "32exe"
+    },
+    "6f3304f91e1597435d5a74edc928bbee5ebfc88cd5a650a6dac50f919137a11c.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "api-ms-win-core-heap-l1-2-0.dll",
+            "api-ms-win-core-errorhandling-l1-1-1.dll",
+            "api-ms-win-core-registry-l1-1-0.dll",
+            "api-ms-win-core-processthreads-l1-1-2.dll",
+            "api-ms-win-core-sysinfo-l1-2-1.dll",
+            "api-ms-win-core-file-l1-2-1.dll",
+            "api-ms-win-core-processenvironment-l1-2-0.dll",
+            "api-ms-win-security-base-l1-2-0.dll",
+            "api-ms-win-core-heap-l2-1-0.dll",
+            "api-ms-win-core-datetime-l1-1-1.dll",
+            "api-ms-win-core-libraryloader-l1-2-0.dll",
+            "api-ms-win-core-version-l1-1-0.dll",
+            "api-ms-win-core-psapi-l1-1-0.dll",
+            "api-ms-win-eventing-controller-l1-1-0.dll",
+            "api-ms-win-core-file-l2-1-1.dll",
+            "api-ms-win-core-debug-l1-1-1.dll",
+            "api-ms-win-core-interlocked-l1-2-0.dll",
+            "api-ms-win-core-threadpool-legacy-l1-1-0.dll",
+            "api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+            "api-ms-win-core-heap-obsolete-l1-1-0.dll",
+            "api-ms-win-eventing-classicprovider-l1-1-0.dll",
+            "api-ms-win-core-delayload-l1-1-1.dll",
+            "api-ms-win-core-apiquery-l1-1-0.dll"
+        ],
+        "type": "64exe"
+    },
+    "6f8617fc7371353399c28d8122ea6e8f0fd284b466682f0230d1ae15cefbf375.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "sentry_crashpad.dll",
+            "libvlc.dll",
+            "opencv_img_hash320.dll",
+            "opencv_core320.dll",
+            "opencv_imgproc320.dll",
+            "opencv_imgcodecs320.dll",
+            "opencv_videoio320.dll",
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "type": "32exe"
+    },
+    "6fa53169bf5d5d186b9e466b1cb2e965d6e6be13e4243a9ac2fd5c101db4cc9a.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "steam_api.dll",
+            "ogg.dll",
+            "vorbis.dll",
+            "vorbisfile.dll",
+            "vorbisenc.dll",
+            "glew32.dll"
+        ],
+        "type": "32exe"
+    },
+    "70ec5e75f8e49a00373c870146bfe0faabd1b887db6e12df7b8065e6439f27c9.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "d3dx9_43.dll",
+            "facclient.dll",
+            "fmodex64.dll",
+            "fmod_event64.dll",
+            "fmod_event_net64.dll",
+            "physx3_x64.dll",
+            "physx3cooking_x64.dll",
+            "physx3common_x64.dll",
+            "ts3client.dll",
+            "crashrpt1403.dll",
+            "xinput1_3.dll"
+        ],
+        "type": "64exe"
+    },
+    "73793c30aea9098de6f0adc2c03eeff3575cbdc6391a2f1eb218c629c7e420fa.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "httputillib.dll",
+            "paho-mqtt3a.dll",
+            "hcnetsdk.dll",
+            "dhnetsdk.dll"
+        ],
+        "type": "64exe"
+    },
+    "738f3c6ba631d00d25ea92af469d7ac7068ccf89037df24155f266093013fe8e.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "libintl-8.dll",
+            "libjpeg-9.dll",
+            "libpixman-1-0.dll",
+            "libpng15-15.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "73a142b8f489c057948ba04aa0f3dfbcad6283eb90234e058eb05e4ba6c05e9c.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libevent-2-0-5.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "745b6c3492b9287900afdfbeaf5fe492aed9a3d3ed80b80496b435118b46db2d.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll"
+        ],
+        "required": [
+            "root.dll",
+            "libmysql.dll",
+            "libeay32.dll"
+        ],
+        "type": "32exe"
+    },
+    "7468f9193d09b0deec5622fb3d402899bf3439a17f6e0e3df9f929ab15810c79.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "bugsplat64.dll",
+            "drstat.dll",
+            "wsap-recoverit.dll"
+        ],
+        "type": "64exe"
+    },
+    "7620f53045ce19fb3c0d27a5571a6b0202356fd78f33e84ac2ed5b342c81ed90.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "pcre16.dll",
+            "libssl.dll",
+            "appagent.dll",
+            "libnxdb.dll",
+            "jansson.dll",
+            "libnetxms.dll",
+            "libnxsnmp.dll",
+            "libnxagent.dll"
+        ],
+        "type": "64exe"
+    },
+    "78b9c72b1166b778cae5ed56b41f4aa71dc07123e6afed2698c428a037236f1e.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "platform64.dll"
+        ],
+        "type": "64exe"
+    },
+    "78eb9d6fb108a198b995d57652a9b4bae1490f05f8792d47afb8bcfd8efa22fa.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libwazuhext.dll"
+        ],
+        "type": "32exe"
+    },
+    "7aa5ee6e45be0227f5a0dd0f3e2f99201a8828efe46c54d396b46e57a6dc209d.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "anen.dll",
+            "commchannel.dll",
+            "aswip.dll",
+            "protobuf.dll",
+            "aswcmnis.dll",
+            "aswcmnos.dll",
+            "aswcmnbs.dll"
+        ],
+        "type": "64exe"
+    },
+    "7b49eaec64dd0e9ae9561feff140d986239a5b493780ab0561506910ea6696b2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "miktex209-cairo.dll",
+            "miktex209-jpeg.dll",
+            "miktex209-png.dll",
+            "miktex209-web2c.dll",
+            "miktex209-zzip.dll",
+            "miktex209-kpathsea.dll",
+            "miktex209-app.dll",
+            "miktex209-getopt.dll",
+            "miktex209-unxemu.dll",
+            "miktex209-core.dll",
+            "miktex209-md5.dll",
+            "miktex209-util.dll",
+            "miktex209-zlib.dll",
+            "miktex209-utf8wrap.dll"
+        ],
+        "type": "32exe"
+    },
+    "7cc3f10c4166e3e7e3e21b393e6bbd23bfaf88ac0eea9cc823a9cce22c67e8ba.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "fcrypt_es.dll"
+        ],
+        "type": "32exe"
+    },
+    "7d24ba83791f82dd46e3779eeb3a060699472a08cd43bddf77aceedb8379cf98.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll"
+        ],
+        "required": [
+            "ace.dll",
+            "libmysql.dll",
+            "libeay32.dll",
+            "tbbmalloc.dll",
+            "tbb.dll"
+        ],
+        "type": "32exe"
+    },
+    "8059a8b25494add7987ea5e72e1219c1ee53449c7ba66c3f2f5a634fc0c5211c.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "ace32.dll"
+        ],
+        "type": "32exe"
+    },
+    "815a251ac01d037586fa346164fd2669ac176292cf9221ca604649c5fa4c4ef2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "node.dll",
+            "ffmpeg.dll"
+        ],
+        "type": "32exe"
+    },
+    "839b69e6c945b1cfb93a78af33ab3e918a7f201decd5dc9e2d0d1236f8588db3.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "api-ms-win-downlevel-shlwapi-l1-1-0.dll"
+        ],
+        "type": "32exe"
+    },
+    "8465a940e240145f97f53ccf93b489b4313ce19cc07cbf1459fb7ea8fb69c452.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "qtgui4.dll",
+            "qtcore4.dll"
+        ],
+        "required": [
+            "wtclient.dll",
+            "hcnetsdk.dll",
+            "cppunit_dll.dll",
+            "rlog.dll",
+            "libeay32.dll",
+            "curl.dll",
+            "jsoncpp.dll",
+            "civetweb-cpp.dll",
+            "civetweb.dll",
+            "pugixml.dll",
+            "rvl_classes.dll",
+            "rvl_kclasses.dll",
+            "rvl_imptelem.dll",
+            "rvl_zkod.dll",
+            "rvl_rdzclient.dll",
+            "rvl_vnetclient.dll",
+            "rvl_permissions.dll",
+            "qt3support4.dll",
+            "qtgui4.dll",
+            "qtcore4.dll"
+        ],
+        "type": "32exe"
+    },
+    "84dd02debbf2b0c5ed7eebf813305543265e34ec98635139787bf8b882e7c7b4.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "cudart64_80.dll"
+        ],
+        "type": "64exe"
+    },
+    "856a61d86ee05be6ac21f5dc6a0bbd184b4309d0aee74096f1f50803a21274cb.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "api-ms-win-core-heap-l1-2-0.dll",
+            "api-ms-win-core-errorhandling-l1-1-1.dll",
+            "api-ms-win-core-registry-l1-1-0.dll",
+            "api-ms-win-core-sysinfo-l1-2-0.dll",
+            "api-ms-win-core-processenvironment-l1-2-0.dll",
+            "api-ms-win-security-base-l1-2-0.dll",
+            "api-ms-win-core-datetime-l1-1-1.dll",
+            "api-ms-win-core-libraryloader-l1-1-1.dll",
+            "api-ms-win-eventing-controller-l1-1-0.dll",
+            "api-ms-win-core-threadpool-legacy-l1-1-0.dll",
+            "api-ms-win-core-kernel32-legacy-l1-1-0.dll",
+            "api-ms-win-core-string-obsolete-l1-1-0.dll",
+            "api-ms-win-core-heap-obsolete-l1-1-0.dll",
+            "api-ms-win-core-apiquery-l1-1-0.dll",
+            "api-ms-win-core-delayload-l1-1-1.dll"
+        ],
+        "type": "64exe"
+    },
+    "857231d7669232c636d1d4279c891b24c8ce55d283b93b0f305cafad4e5c0b2e.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "scommon.dll",
+            "nativesamsungdexframework.dll",
+            "slocales.dll",
+            "swscale-5.dll",
+            "avutil-56.dll",
+            "avcodec-58.dll",
+            "avformat-58.dll",
+            "swresample-3.dll",
+            "avfilter-7.dll",
+            "cximageu.dll",
+            "cairo.dll",
+            "ss_conn_lib2.dll",
+            "pthreadvc2.dll",
+            "bass.dll",
+            "basswma.dll",
+            "basscd.dll"
+        ],
+        "type": "32exe"
+    },
+    "867ff0a904416d19d4fd630adc316f9af42bfe1aa84bae45d8785c13ddf5b912.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "d3dx9_35.dll",
+            "tbb.dll",
+            "mfc71.dll",
+            "msvcr71.dll",
+            "msvcp71.dll",
+            "bugtrap.dll"
+        ],
+        "type": "32exe"
+    },
+    "8d9b86b9d39a2fa1ff0dfa8409310672ed94908e69338549336664347e3f543f.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "disload.dll"
+        ],
+        "type": "32exe"
+    },
+    "90ca6204ee1dccfc2332b8734e18aa897a510d658bb78221bbf4c85cb981348b.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcp90.dll",
+            "msvcr90.dll"
+        ],
+        "required": [
+            "zlib1d.dll",
+            "msvcp90.dll",
+            "msvcr90.dll"
+        ],
+        "type": "32exe"
+    },
+    "96052119d7c8d8ea56604db2fd434a5e6127e2a589564cbf45684e96245fc0b8.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "sgbase.dll",
+            "fingerprinting.dll",
+            "log4cxx.dll",
+            "contentparser.dll",
+            "sgfpdb.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "testsrv.dll",
+            "sgmlpredict.dll",
+            "objectresolver.dll",
+            "icuuc57.dll",
+            "extension_matcher.dll"
+        ],
+        "type": "64exe"
+    },
+    "96e718613790479c5baca60d2597686da7500dcb04a671749ed0b9e808dfdded.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "borlndmm.dll",
+            "ptlib.dll"
+        ],
+        "type": "32exe"
+    },
+    "974692dfa6de619391c3a08473b70b4f96ac71bee6cfbad6542daebf27ab5e9e.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "bugsplat.dll",
+            "libcef.dll",
+            "bcgcbpro2430u120.dll",
+            "libidn.dll",
+            "convertercore.dll",
+            "lua_wrapper.dll",
+            "lua.dll",
+            "metrics.dll",
+            "npdf.dll",
+            "nitroplatform13.dll"
+        ],
+        "type": "32exe"
+    },
+    "98124a180f000ee406ae7f4eaaeb73339a1c3e8378e0decd35f37ef940d4f6bb.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "xinput1_3.dll"
+        ],
+        "type": "64exe"
+    },
+    "9bec15576ff934996da6b8ed68797bba7ff866e790a169d7501a2d25a6167537.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "x3daudio1_7.dll",
+            "xapofx1_5.dll",
+            "xinput1_3.dll"
+        ],
+        "type": "64exe"
+    },
+    "a08f0354e86c1c301622dafad36a75d5b59e14cfd139018ac2d7f08c6b200ffe.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "steam_api64.dll",
+            "bugsplat64.dll",
+            "amd_ags_x64.dll",
+            "oo2core_4_win64.dll",
+            "physx3_x64.dll",
+            "physx3common_x64.dll",
+            "physx3cooking_x64.dll",
+            "binkw64.dll"
+        ],
+        "type": "64exe"
+    },
+    "a0acbe22b6e55c33b13756d2bebaaf5af26598c7db50e85f61189c6b8d6153f0.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "dhnetsdk.dll",
+            "dhplay.dll",
+            "autosearchdev.dll",
+            "snvdsdk.dll",
+            "dhconfigsdk.dll",
+            "vdcdecode.dll",
+            "dvrproxyserver.dll"
+        ],
+        "type": "32exe"
+    },
+    "a323be3985e0c20f30530bac06e768873ea6e875031b225dc7357bb6672049d4.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "anen.dll",
+            "commchannel.dll",
+            "aswip.dll",
+            "protobuf.dll",
+            "aswcmnis.dll",
+            "aswcmnos.dll",
+            "aswcmnbs.dll"
+        ],
+        "type": "64exe"
+    },
+    "a348b8a385c94cc736eab3f3aacf8b79239b79f20e528658089641677252ff02.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll"
+        ],
+        "required": [
+            "cpprest_2_10.dll",
+            "libeay32.dll"
+        ],
+        "type": "32exe"
+    },
+    "a49800646b67a4ab22589d815a246587ad01593d9a449747fcac62aae7bb8a39.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libpanguagent.dll",
+            "libtwo_way_audio.dll",
+            "libfederate_box.dll",
+            "libbug_report.dll",
+            "libqplayer.dll",
+            "swscale-4.dll",
+            "glew32.dll"
+        ],
+        "type": "32exe"
+    },
+    "a87a8111e46828e8ae42335fe3bcac11b17ac19fef5ea76eabf2a34edd5f40f5.exe": {
+        "fakedll": [],
+        "installed": [
+            "sync.dll",
+            "mfc100u.dll",
+            "msvcr100.dll",
+            "msvcp100.dll"
+        ],
+        "required": [
+            "athr_debug.dll",
+            "handsfree.dll",
+            "btbip.dll",
+            "sync.dll",
+            "bpp.dll",
+            "rfcommlib.dll",
+            "outlooklib.dll",
+            "sesmgr.dll",
+            "phonebook.dll",
+            "utils.dll",
+            "sim.dll",
+            "gatts.dll",
+            "mfc100u.dll",
+            "msvcr100.dll",
+            "msvcp100.dll"
+        ],
+        "type": "64exe"
+    },
+    "a8dc2dc4947cf50ddb011ccfd22d6f0c910318b74024b8fdbe63ef043a8db828.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "lua5.1.dll",
+            "htmlayout.dll",
+            "sqlite30.dll",
+            "hssl.dll",
+            "hcrypt.dll",
+            "hcoord.dll"
+        ],
+        "type": "32exe"
+    },
+    "aa97edfcf39cbec449d1a05bfb669ba1de0e0524ace51fb2e58f1f8e89314232.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "vclx100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "vcl100.bpl",
+            "rtl100.bpl",
+            "rtl100.bpl",
+            "vcl100.bpl",
+            "vclx100.bpl",
+            "vcl100.bpl",
+            "vclsmp100.bpl",
+            "vcl100.bpl",
+            "ltfil13n.dll",
+            "ltdis13n.dll",
+            "ltkrn13n.dll",
+            "ter15.dll"
+        ],
+        "type": "32exe"
+    },
+    "ab6ed8bc0c9639241510e6a1f3ffabe1af3444aab33d32dd847ea9ff14f65011.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libcocos2d.dll",
+            "lua51.dll",
+            "glew32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "ac67b6b139434801e915eb49294b27d3564ff76c1c32c178f73c67d9e67e612b.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "swscale-5.dll",
+            "avcodec-58.dll",
+            "avutil-56.dll"
+        ],
+        "type": "64exe"
+    },
+    "ae5bb9b4dc06c1845ead286f6dad708a86a7a9939d22d8a755e6ae806077525d.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcr90.dll"
+        ],
+        "required": [
+            "msvcr90d.dll",
+            "msvcp90d.dll",
+            "msvcr90.dll"
+        ],
+        "type": "64exe"
+    },
+    "aef4c6dcf15db272790b9c0e5c90207b2e753b7c0362779dbdeb1b4f4ec0a721.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "utilities.dll",
+            "soui.dll",
+            "ipc.dll"
+        ],
+        "type": "32exe"
+    },
+    "b005816e14a3a7d6786eaec842ce6024b0309ac878d3bc72fddb52b8eb4e80a3.exe": {
+        "fakedll": [],
+        "installed": [
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "liblzo2-2.dll"
+        ],
+        "required": [
+            "libcrypto-1_1.dll",
+            "liblzo2-2.dll",
+            "libpkcs11-helper-1.dll",
+            "libssl-1_1.dll"
+        ],
+        "type": "32exe"
+    },
+    "b086c77a63528531dddde0f89c0bd92f870c2226a9ac18ce7bdf09ee13b26be8.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libmysql.dll"
+        ],
+        "type": "64exe"
+    },
+    "b114d3276b03842827c28c1f7bb2df3e926a5c9ec3fd05f31cd4dc758ff33021.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "libsqlite.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "libcef.dll",
+            "encrashrep.dll",
+            "zlibwapi.dll",
+            "libpcre.dll",
+            "enfatink.dll",
+            "websockets.dll",
+            "fpdfemb.dll",
+            "tidy.dll"
+        ],
+        "type": "32exe"
+    },
+    "b1aadb3d97a7a704d8fddb7f8535a0617415b768bc780eec8e84cf3cb5f6dc0e.exe": {
+        "fakedll": [],
+        "installed": [
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libatk-1.0-0.dll",
+            "libbz2-1.dll",
+            "libcairo-2.dll",
+            "libgdk-3-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libgio-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgtk-3-0.dll",
+            "liblzma-5.dll",
+            "libpango-1.0-0.dll",
+            "libpangocairo-1.0-0.dll",
+            "libpng16-16.dll",
+            "zlib1.dll"
+        ],
+        "type": "64exe"
+    },
+    "b6a696fdd89e6ab202652725116d62c2746148182b074a8f11502c81e2b82215.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "required": [
+            "libevent-2-0-5.dll",
+            "libeay32.dll",
+            "ssleay32.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "b74ad6ea948a3865e0ad5ba7f418dab6b2d44037ce4e12cfb12a22b4edc4b267.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "python37.dll",
+            "openal32.dll",
+            "sdl2.dll",
+            "avcodec-58.dll",
+            "avformat-58.dll",
+            "avdevice-58.dll",
+            "avutil-56.dll",
+            "swscale-5.dll"
+        ],
+        "type": "64exe"
+    },
+    "bb7eacc219425b27c47eae828336124da574f55b03b3b39a8c5dbd79a7ef5f2d.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "rps32.dll",
+            "rps32.dll",
+            "reactiveclientlibrary.dll"
+        ],
+        "type": "32exe"
+    },
+    "be1653b46959d60d362e0963b6e880c7df1396fa2b83415f56baa0ceabe71e25.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "borlndmm.dll"
+        ],
+        "type": "64exe"
+    },
+    "bf0fb27f7919f59f6ce18adebe00ffa0dcedaedea969f0a8aef0ab221fc6a508.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "ebaclientbase4.dll",
+            "ebaclient4.dll",
+            "ebacryptoapi4.dll",
+            "ebahelpers.dll",
+            "ebacommon.dll",
+            "exdprintengine.dll",
+            "ebacommongui.dll",
+            "ebacommonwidgets.dll",
+            "ebaclientcommon.dll",
+            "ebaclientcommongui.dll",
+            "ebaclientscript4.dll",
+            "scannerextension.dll",
+            "ebaocr.dll"
+        ],
+        "type": "64exe"
+    },
+    "bf2cd962f8bcb0ec9ae037221b963834ec31253523dad7b6dc0890d8d2153ffe.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcp90.dll",
+            "msvcr90.dll"
+        ],
+        "required": [
+            "chess32.dll",
+            "textures3.dll",
+            "tbaccess.dll",
+            "sview3.dll",
+            "msvcp90.dll",
+            "mfc90.dll",
+            "msvcr90.dll",
+            "vcomp90.dll"
+        ],
+        "type": "32exe"
+    },
+    "bfa5d1566f0ab8a82429195701206d23ff001e598ae88aa8c02450f074546b83.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcp80.dll",
+            "mfc80u.dll",
+            "msvcr80.dll"
+        ],
+        "required": [
+            "msvcp80.dll",
+            "mfc80u.dll",
+            "msvcr80.dll",
+            "atl80.dll",
+            "neroapigluelayerunicode.dll"
+        ],
+        "type": "32exe"
+    },
+    "c46cf2e54f2028ca3871ea018ffea8b083997e87c6178357f61555fa15309763.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libbluray.dll",
+            "cec.dll",
+            "lcms2.dll",
+            "libplist.dll",
+            "python3.8.dll",
+            "libass.dll",
+            "libcdio.dll",
+            "shairplay.dll",
+            "libdav1d.dll"
+        ],
+        "type": "64exe"
+    },
+    "c4b1cdc250f2ca2617b2f4a39d74c6982808c807b5bfc9ce3a38f29ac9014dfe.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "fastmm_fulldebugmode.dll",
+            "scidllxp.dll",
+            "sglw32.dll"
+        ],
+        "type": "32exe"
+    },
+    "c7814962addd965512535b3f10745bff954dc817c68a93cee5ba9060c1e82eff.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "cygwin1.dll",
+            "cygpopt-0.dll"
+        ],
+        "type": "32exe"
+    },
+    "ca87fdca022a9f104344785e0fcbe0a9c476be8d0f7fd30f6891d51aa194d3d3.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "steam_api64.dll"
+        ],
+        "type": "64exe"
+    },
+    "ccc3aa7ab596ce8fe89b1ae5ca4477f4906a2e3d39f0b6513e585dc29b0dc5c5.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "xinput1_3.dll",
+            "x3daudio1_7.dll",
+            "xapofx1_5.dll"
+        ],
+        "type": "64exe"
+    },
+    "ccd60dfe533f605b1ad8c8d550121be3eda3073b846f3e0df51a478a17a380e7.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "xinput1_3.dll",
+            "d3dcompiler_43.dll"
+        ],
+        "type": "64exe"
+    },
+    "d11e9f5efad66fa29244cd4b766c0977b121b930e7e06e18d6d236d841977654.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "glew32.dll",
+            "zlib1.dll",
+            "physfs.dll",
+            "openal32.dll",
+            "lua51.dll",
+            "vorbisfile.dll",
+            "boost_filesystem-vc142-mt-x64-1_73.dll",
+            "boost_thread-vc142-mt-x64-1_73.dll"
+        ],
+        "type": "64exe"
+    },
+    "d28e1b2c3f846f2abedf3f72860131197d1b333f4f1ac7ef5e69ab1b5ba59643.exe": {
+        "fakedll": [],
+        "installed": [
+            "qtxml4.dll",
+            "qtgui4.dll",
+            "qtnetwork4.dll",
+            "qtcore4.dll"
+        ],
+        "required": [
+            "osgsystem.dll",
+            "tbb_preview.dll",
+            "toonboomnetwork.dll",
+            "fnp_act_installer.dll",
+            "toonboomflash.dll",
+            "toonboombaseuiapplication.dll",
+            "toonboomcelcore.dll",
+            "toonboomcommand.dll",
+            "toonboomfontmanager.dll",
+            "toonboomgraphiccore.dll",
+            "toonboomdbaccess.dll",
+            "toonboomelement.dll",
+            "toonboomlayout.dll",
+            "toonboommultimediaex.dll",
+            "toonboomosganimation.dll",
+            "toonboompersistentobj.dll",
+            "toonboompluginmanager.dll",
+            "toonboompreference.dll",
+            "toonboomscenecontext.dll",
+            "toonboomscenecore.dll",
+            "toonboommodelcore.dll",
+            "toonboomsboardcore.dll",
+            "toonboomwidgets.dll",
+            "toonboomgraphito.dll",
+            "toonboomactionmanager.dll",
+            "toonboombasecore.dll",
+            "toonboomdrawtoolcore.dll",
+            "libhunspell.dll",
+            "qtscript4.dll",
+            "qtscripttools4.dll",
+            "qtxmlpatterns4.dll",
+            "qtxml4.dll",
+            "qtopengl4.dll",
+            "qtgui4.dll",
+            "qtnetwork4.dll",
+            "qtcore4.dll"
+        ],
+        "type": "64exe"
+    },
+    "d30882d56128314f6ae4e53bc75594c2cce99969d5609f8546c27132778cbf82.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "mdx3dimagekit.dll",
+            "mdx3dmultilanguagekit.dll",
+            "mdx3dguikit.dll",
+            "mdx3dschematiceditor.dll",
+            "mdx3dpowerpages.dll",
+            "mdx3dengine.dll",
+            "mdx3denginegl.dll",
+            "mdx3ddrawit.dll",
+            "mdx3ddrawitgl.dll",
+            "mdx3dsdkkit.dll",
+            "mdx3dglwidge.dll",
+            "mdx3dconnexion.dll",
+            "mfc120.dll"
+        ],
+        "type": "64exe"
+    },
+    "d9c9e27f005980b5111a21b632deac42e4c4522b2ee3783dd7ae15a81673f843.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "adbwinapi.dll"
+        ],
+        "type": "32exe"
+    },
+    "da5bb5f56f28e0eb54f2d507490f7b7ff413e5782f434f0ceff1ba77999817a8.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "chkupd21.dll"
+        ],
+        "type": "32exe"
+    },
+    "dc8476afefa0f4bc0480a28e138e8a432c583c105b8e28b0c13dc4688edfe6ed.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcr90.dll"
+        ],
+        "required": [
+            "d3dx9_43.dll",
+            "xinput1_3.dll",
+            "msvcr90.dll"
+        ],
+        "type": "32exe"
+    },
+    "e4420557cf76cdab9d7526465db436504999769e203fd29eefacc74ca534da9f.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "sdl.dll",
+            "libcairo-2.dll",
+            "libgdk-win32-2.0-0.dll",
+            "libgdk_pixbuf-2.0-0.dll",
+            "libglib-2.0-0.dll",
+            "libgobject-2.0-0.dll",
+            "libgthread-2.0-0.dll",
+            "libgtk-win32-2.0-0.dll",
+            "intl.dll",
+            "libpng14-14.dll",
+            "zlib1.dll",
+            "libgcc_s_sjlj-1.dll",
+            "pdcurses.dll"
+        ],
+        "type": "32exe"
+    },
+    "e6fe3c3ebee5710df5231ff0e5d665b5e27814e2c950e0da2de2f80c860e13a9.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "libhwloc-0.dll"
+        ],
+        "type": "64exe"
+    },
+    "e70cf2043db8d48b6c13b578b181cc36687aeca00e20b0b2984b1d3aac380d7a.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "bugsplat.dll",
+            "libcef.dll",
+            "bcgcbpro2430u120.dll",
+            "libidn.dll",
+            "convertercore.dll",
+            "lua_wrapper.dll",
+            "lua.dll",
+            "metrics.dll",
+            "npdf.dll",
+            "nitroplatform13.dll"
+        ],
+        "type": "32exe"
+    },
+    "eaffa25b8afc31745126b10125a7594fe321a841ac1e81094bb94ae9cc1e92fe.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "openglrender.dll"
+        ],
+        "type": "64exe"
+    },
+    "ec68099177d4529b23af8ea2b66f0972494407ce5424d396a98a297d975ecc2a.exe": {
+        "fakedll": [],
+        "installed": [
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "required": [
+            "qt5webkit.dll",
+            "qt5webkitwidgets.dll",
+            "libeay32.dll",
+            "ssleay32.dll"
+        ],
+        "type": "64exe"
+    },
+    "ee27181e9b0e64b14b1ca71aa62fe2f0dafbdbf0d656a4f1b093b95602e0b27b.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "imfusionlib.dll",
+            "imfusioncore.dll"
+        ],
+        "type": "64exe"
+    },
+    "eea2de37d68c46af12f48ebc70abad3b69cb44d9a2b9f8de5b1c69590b3dbb46.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "statusstrings.dll",
+            "xerces-c_2_7.dll"
+        ],
+        "type": "32exe"
+    },
+    "f052097ea085427533177dc5adc849a5fa55d31fc787decf640203c99627d0a2.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "client.dll"
+        ],
+        "type": "32exe"
+    },
+    "f261e466d7d5e0f3185ba3cf0daf9c39aad7e077d8f15d2f85d04c3608691187.exe": {
+        "fakedll": [],
+        "installed": [
+            "msvcr90.dll",
+            "msvcp90.dll"
+        ],
+        "required": [
+            "msvcr90.dll",
+            "msvcp90.dll",
+            "nwzcryptolib.dll",
+            "pmsconn.dll"
+        ],
+        "type": "32exe"
+    },
+    "f34347a5d41c6f5305f09aaefd0b7b8d16910d96a44a6f13c3f8f71c11341738.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "zlib1.dll",
+            "libintl-8.dll",
+            "libpq.dll"
+        ],
+        "type": "64exe"
+    },
+    "f6d5ae7ac72e2bd821cac9d6f9249e63fb1e04c6b9f030d8c06982621f96a4d4.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "capaint.dll",
+            "cato3cnt.dll",
+            "cavo2gui.dll",
+            "cavo2ole.dll",
+            "cavo2rdd.dll",
+            "cavo2sys.dll",
+            "cavoole.dll",
+            "cavort20.dll",
+            "fabpaint.dll",
+            "unzdll.dll",
+            "zipdll.dll"
+        ],
+        "type": "32exe"
+    },
+    "f6f1e7ba32caf5af0144182938c9c022b25193836a04854a130f2df62044d2df.exe": {
+        "fakedll": [],
+        "installed": [
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll"
+        ],
+        "required": [
+            "libcrypto-1_1.dll",
+            "libssl-1_1.dll",
+            "colorwidgets-qt51.dll"
+        ],
+        "type": "32exe"
+    },
+    "fb2ff6af140bdac85fe0eca0ccbaabe16581bc2f1f2349fdfbe22e434a071faa.exe": {
+        "fakedll": [],
+        "installed": [
+            "zlib1.dll"
+        ],
+        "required": [
+            "libiconv-2.dll",
+            "libintl-8.dll",
+            "libpcre2-8-0.dll",
+            "zlib1.dll"
+        ],
+        "type": "32exe"
+    },
+    "fd9441125dc206d2596f3a77c2101ab06b035392009d185d4f9a9d69ef7f2e97.exe": {
+        "fakedll": [],
+        "installed": [],
+        "required": [
+            "db4d.dll",
+            "graphics.dll",
+            "gui.dll",
+            "kernelipc.dll",
+            "kernel.dll",
+            "servernet.dll",
+            "sqlconnector.dll",
+            "textcore.dll",
+            "xml.dll",
+            "libhunspell.dll",
+            "xerces-c_3_2.dll"
+        ],
+        "type": "64exe"
+    }
+}

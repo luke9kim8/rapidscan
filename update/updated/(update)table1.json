@@ -1,0 +1,3917 @@
+{
+    "7zpp_a.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "abmapi.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "absl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "abstracttask.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "accountant.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ace.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "ace32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "acrotls.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "adbwinapi.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "amd_ags_x64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "anen.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-apiquery-l1-1-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-core-com-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-com-l1-1-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-comm-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-crt-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-crt-l2-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-datetime-l1-1-1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-debug-l1-1-1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-delayload-l1-1-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-delayload-l1-1-1.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "api-ms-win-core-errorhandling-l1-1-1.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-core-file-l1-2-1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-file-l2-1-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-heap-l1-2-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-core-heap-l2-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-heap-obsolete-l1-1-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-interlocked-l1-2-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-io-l1-1-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-kernel32-legacy-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-kernel32-legacy-l1-1-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-libraryloader-l1-1-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-libraryloader-l1-2-0.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "api-ms-win-core-localization-l1-2-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-memory-l1-1-2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-namedpipe-l1-2-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-path-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-processenvironment-l1-2-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-core-processthreads-l1-1-2.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-psapi-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-realtime-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-registry-l1-1-0.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "api-ms-win-core-rtlsupport-l1-2-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-string-l2-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-string-obsolete-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-sysinfo-l1-2-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-sysinfo-l1-2-1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-core-threadpool-l1-2-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-threadpool-legacy-l1-1-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-core-version-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-core-winrt-error-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-downlevel-shlwapi-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-eventing-classicprovider-l1-1-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-eventing-controller-l1-1-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-eventing-provider-l1-1-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "api-ms-win-security-base-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-security-base-l1-2-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "api-ms-win-security-sddl-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-service-core-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "api-ms-win-service-management-l1-1-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "appagent.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "appcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "applib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "applibinterfaces.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "asl.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "asohtm.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "aswcmnbs.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "aswcmnis.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "aswcmnos.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "aswip.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "athr_debug.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "atl80.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "autosearchdev.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "avcodec-58.dll": {
+        "Program": "",
+        "count": 11,
+        "link": ""
+    },
+    "avcodec-lav-58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "avcodec.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "avdevice-58.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "avfilter-7.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "avformat-58.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "avutil-56.dll": {
+        "Program": "",
+        "count": 11,
+        "link": ""
+    },
+    "avutil-lav-56.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "avutil.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "avzscanner.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "backuplib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "base_i18n.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "baselib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bass.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "basscd.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "basswma.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bcgcbpro2420u120.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bcgcbpro2430u120.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "bdertl70.bpl": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "bf2voipserver.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bindings.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bindings_base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "binkw32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "binkw64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "binman.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "binproj.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bizutil.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_chrono-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_date_time-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_date_time-vc140-mt-1_59.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_filesystem-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_filesystem-vc142-mt-x64-1_73.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_regex-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_system-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_system-vc140-mt-1_59.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_thread-vc120-mt-1_58.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "boost_thread-vc142-mt-x64-1_73.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "borlndmm.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "botan.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bsapi.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "btbip.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "bugsplat.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "bugsplat64.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "bugtrap.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cairo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "capaint.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cato3cnt.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavo2gui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavo2ole.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavo2rdd.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavo2sys.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavoole.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cavort20.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cc_base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cc_paint.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cec.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cfnetwork.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "chess32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "chkupd21.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "civetweb-cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "civetweb.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "client.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "clock_common.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "codec.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "color_space.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "color_space_mojom_support.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "colorwidgets-qt51.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "commchannel.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "comn.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "componentslib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "content.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "contentparser.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "convertercore.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "cookies_mojom_support.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "coredll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "corefoundation.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "cpprest_2_10.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cppu3.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cppuhelper3msc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cppunit_dll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "crashrpt1403.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "crcrypto.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "crtdll.dll": {
+        "Program": "",
+        "count": 4812,
+        "link": ""
+    },
+    "cudart64_80.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "curl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cximage.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "cximageu.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cygbz2-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cyggcc_s-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cygpopt-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "cygwin1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "cygz.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "d3dcompiler_43.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "d3dx9_27.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "d3dx9_35.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "d3dx9_42.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "d3dx9_43.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "d3dxof.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dalog.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "databasemanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "datalayer.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dawn_proc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "db4d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dbrtl70.bpl": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "deconz1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "device_vr.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "device_vr_mojo_bindings.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "devil.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dhconfigsdk.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dhnetsdk.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "dhplay.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dice_py.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "discomanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "disload.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dl2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dlmgr.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmaudit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmbudget.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmcustomernotes.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmdqe.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmgenprefs.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmsendforms.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dmsentemail.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "documentmanagement.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "drmq.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "drstat.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "dvrproxyserver.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaclient4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaclientbase4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaclientcommon.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaclientcommongui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaclientscript4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebacommon.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebacommongui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebacommonwidgets.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebacryptoapi4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebahelpers.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ebaocr.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "elcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "encrashrep.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "enfatink.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "exdprintengine.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "extension_matcher.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fabpaint.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "facclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fastmm_fulldebugmode.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fcrypt_es.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ffmpeg.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fingerprinting.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "flexexpo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fmod_event64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fmod_event_net64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fmodex64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fnp_act_installer.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fo120fbs110.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fo120fex110.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "fpdfemb.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "freeimage64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gatts.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "geometry.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "geometry_skia.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gfx.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gfx_ipc_color.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gfx_ipc_geometry.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gfx_shared_mojom_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gles2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gles2_c_lib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gles2_implementation.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "glew32.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "glib-2.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gmodule-2.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gobject-2.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gpu.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gpu_shared_mojom_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "graphics.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gridexpo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gsoap.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "gzip2.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "h264play.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "handsfree.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "hccore.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "hccoredevcfg.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "hcnetsdk.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "hcoord.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "hcrypt.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "hssl.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "htmlayout.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "httputillib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "hythr.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "i18nlangtag.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "icui18n.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "icuin52.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "icuuc52.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "icuuc57.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ijl20.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ilu.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "imfusioncore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "imfusionlib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "indy70.bpl": {
+        "Program": "",
+        "count": 29,
+        "link": ""
+    },
+    "inetclnt.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "intl.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "ip_address_mojom_support.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ipc.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "ipworksssl9.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ipworkszip8.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "jansson.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "java.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "jsoncpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "jvm.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "kernel.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "kernelipc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "keyed_service_core.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "krnl386.exe16": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ksu.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "laszip-2.2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "latency_shared_mojom_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "lcms2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "learning_common.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "leveldb_proto.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libass.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libatk-1.0-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libbluray.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libbug_report.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libbz2-1.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libc++.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libcairo-2.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "libcdio.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libcef.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "libcocos2d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libcrypto-1_1.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 7,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "libcrypto-3.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libcrypto_dll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libcryptomd.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libcurl-4.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libdav1d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libdispatch.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libeay32.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 30,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "libevent-2-0-5.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libfederate_box.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libgcc_s_dw2-1.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "libgcc_s_sjlj-1.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libgdk-3-0.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "libgdk-win32-2.0-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libgdk_pixbuf-2.0-0.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "libgio-2.0-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libglib-2.0-0.dll": {
+        "Program": "",
+        "count": 7,
+        "link": ""
+    },
+    "libgmodule-2.0-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libgnutls-30.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libgobject-2.0-0.dll": {
+        "Program": "",
+        "count": 7,
+        "link": ""
+    },
+    "libgpac.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libgthread-2.0-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libgtk-3-0.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "libgtk-win32-2.0-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libhogweed-6.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libhunspell.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libhwloc-0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libiconv-2.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libidn.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libintl-8.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "libintl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libjpeg-62.dll": {
+        "Program": "Veyon",
+        "count": 2,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "libjpeg-9.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "liblzma-5.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "liblzo2-2.dll": {
+        "Program": "Veyon",
+        "count": 5,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "libmysql.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libncursesw6.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnettle-6.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnettle-8.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnetxms.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnxagent.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnxdb.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libnxsnmp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpango-1.0-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libpangocairo-1.0-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libpanguagent.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpcre.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpcre2-8-0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libperfetto.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpixman-1-0.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libpkcs11-helper-1.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libplist.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpng14-14.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libpng15-15.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libpng16-16.dll": {
+        "Program": "Veyon",
+        "count": 3,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "libpq.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libqca-qt5.dll": {
+        "Program": "Veyon",
+        "count": 1,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "libqplayer.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libsndfile-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libsqlite.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libssl-1_1.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 6,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "libssl.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libsslmd.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libswipl.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "libtwo_way_audio.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libusb-1.0.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libusbredirparser-1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libvlc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libvlccore.dll": {
+        "Program": "",
+        "count": 10,
+        "link": ""
+    },
+    "libvorbisfile.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "libwazuhext.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "libz1.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "lineitem.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "liveupdate.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "log4cxx.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "ltdis13n.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ltdis15u.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ltfil13n.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ltfil15u.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ltkrn13n.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ltkrn15u.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "lua.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "lua5.1.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "lua51.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "lua53-32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "lua53-64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "lua_wrapper.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "mailbox.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mc3adv.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdnsclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dconnexion.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3ddrawit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3ddrawitgl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dengine.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3denginegl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dglwidge.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dguikit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dimagekit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dmultilanguagekit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dpowerpages.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dschematiceditor.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mdx3dsdkkit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "media.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "media_learning_shared_typemap_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mediaclientlib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mediainfo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "memory.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mergedlo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "message_support.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "metrics.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "metrics_cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mfc100u.dll": {
+        "Program": "Veyon",
+        "count": 1,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "mfc110u.dll": {
+        "Program": "MSYS2",
+        "count": 1,
+        "link": "https://www.msys2.org/#installation"
+    },
+    "mfc120.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "mfc120u.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mfc71.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mfc80.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "mfc80u.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "mfc90.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mfc90u.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mhiconv.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "miktex209-app.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-cairo.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-core.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-getopt.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-jpeg.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-kpathsea.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-md5.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-png.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-unxemu.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-utf8wrap.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-util.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-web2c.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-zlib.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "miktex209-zzip.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "mmconv_2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mmcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mmplay.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mmpreset.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mobiledevice.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_base_lib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_base_mojom_shared.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_base_shared_typemap_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_base_typemap_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_cpp_platform.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_mojom_bindings_shared.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_public_system.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mojo_public_system_cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "mozglue.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "msvcp100.dll": {
+        "Program": "Veyon",
+        "count": 20,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "msvcp110.dll": {
+        "Program": "MSYS2",
+        "count": 3,
+        "link": "https://www.msys2.org/#installation"
+    },
+    "msvcp110d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "msvcp140_app.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "msvcp71.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "msvcp80.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 8,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "msvcp90.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 10,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "msvcp90d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "msvcr100.dll": {
+        "Program": "Veyon",
+        "count": 25,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "msvcr110.dll": {
+        "Program": "MSYS2",
+        "count": 6,
+        "link": "https://www.msys2.org/#installation"
+    },
+    "msvcr110d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "msvcr71.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "msvcr80.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 9,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "msvcr90.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 17,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "msvcr90d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "msvcrt-ruby220.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nativecontrols8.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nativesamsungdexframework.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "neroapigluelayerunicode.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "net.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "netsdk.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "network_cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "network_cpp_base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nitroplatform13.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "node.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "npdf.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "nssock2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nsutil2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nvcuda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nvda.graphics.framedebugger.native.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nvqtgui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "nwzcryptolib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "objectresolver.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ogg.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "olepro32.dll": {
+        "Program": "",
+        "count": 5,
+        "link": ""
+    },
+    "oo2core_4_win64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "openal32.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "opencv_core320.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "opencv_img_hash320.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "opencv_imgcodecs320.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "opencv_imgproc320.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "opencv_videoio320.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "openglrender.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "opensvcdecoder.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "oraclient19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oraclsce19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oracommon19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oracore19.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "orageneric19.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "oran19.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "oranl19.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "oranls19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "orannzsbb19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oraocr19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oraocrutl19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "orauts.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "oravsn19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "orawsec19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "oraxml19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "orazt19.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "os_crypt.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "osgsystem.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "outlooklib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "paho-mqtt3a.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "parender.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "passwordprivacydll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "paycore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "payserv.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pcre16.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pdcurses.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pdfium.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "phonebook.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "php8.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "physfs.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "physx3_x64.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "physx3common_x64.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "physx3cooking_x64.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "picconvert.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "platform64.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "plugin_core.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pmsconn.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pococrypto.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pocofoundation.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "pocofoundationd.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "poconet.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pocoutil.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "portaudio.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "portfile.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "prefs.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "printerstation.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "prl_sdk.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "prlsdkcommunication.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "protobuf-lite.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "protobuf.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "protobuf_lite.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pthreadgc2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pthreadvc2.dll": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "ptlib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pugixml.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "pxlicensemanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "python27.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "python3.8.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "python36.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "python37.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbattr32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbbrow32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbcompressor.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbconv32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbform32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbintr32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbitools.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qblist32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbmapilibrary.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbmas32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbonli32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbproactivecore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbqwut32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbstyl32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbtool32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbtxn32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbutilities.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbwin32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbwmain.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qbwrpt32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qsrdb.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt3support4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5chartsnvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5corenvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5coreprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5guinvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5guiprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5networkprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5openglnvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5printsupportnvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5qmlmodels.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "qt5svgprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5webkit.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "qt5webkitwidgets.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "qt5widgetsnvda.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5widgetsprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5winextrasprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qt5xmlprl.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qtcore4.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 4,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "qtglrender.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qtgui4.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 3,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "qtnetwork4.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "qtopengl4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qtscript4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qtscripttools4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "qtxml4.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "qtxmlpatterns4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "raster.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rdsapi.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "reactiveclientlibrary.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rfcommlib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rlog.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "root.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rpc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rps32.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "rtl100.bpl": {
+        "Program": "",
+        "count": 28,
+        "link": ""
+    },
+    "rtl70.bpl": {
+        "Program": "",
+        "count": 33,
+        "link": ""
+    },
+    "rvl_classes.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_imptelem.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_kclasses.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_permissions.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_rdzclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_vnetclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "rvl_zkod.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "s2012rs.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sal3.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "salhelper3msc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "scannerextension.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "scidllxp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "scommon.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sdl.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "sdl2.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "security_state_features.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sentry_crashpad.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "servernet.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "service_manager_cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "service_manager_cpp_types.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "service_provider.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sesmgr.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sgbase.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sgbdmyss.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "sgfpdb.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sglw32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sgmlpredict.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "shairplay.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "shared_memory_support.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sim.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sketchupapi.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "skia.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "skia_shared_typemap_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "skucore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "skypert.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "slocales.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "snvdsdk.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "soui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sql.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sqlconnector.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sqlite30.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "ss_conn_lib2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ssh.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ssleay32.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 23,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "statusstrings.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "steam_api.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "steam_api64.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "steamclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "streamreader.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "sview3.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "swlo.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "swresample-3.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "swscale-4.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "swscale-5.dll": {
+        "Program": "",
+        "count": 7,
+        "link": ""
+    },
+    "sync.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "tablonanuncios.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tbaccess.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tbb.dll": {
+        "Program": "",
+        "count": 3,
+        "link": ""
+    },
+    "tbb_preview.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tbbmalloc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tdbf_d7r.bpl": {
+        "Program": "",
+        "count": 16,
+        "link": ""
+    },
+    "tej32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ter15.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "testsrv.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "textcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "textures3.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tftp.dll": {
+        "Program": "AOMEIBackupperStd",
+        "count": 1,
+        "link": "https://www.aomeitech.com/download.html#ab"
+    },
+    "tidy.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tier0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toastdrivecore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomactionmanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboombasecore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboombaseuiapplication.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomcelcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomcommand.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomdbaccess.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomdrawtoolcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomelement.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomflash.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomfontmanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomgraphiccore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomgraphito.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomlayout.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboommodelcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboommultimediaex.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomnetwork.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomosganimation.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboompersistentobj.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboompluginmanager.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboompreference.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomsboardcore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomscenecontext.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomscenecore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "toonboomwidgets.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tracing_cpp.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "trimbim-2.17.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ts3client.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tup_commonlib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "tup_os_adapter.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "txncore.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "txnform.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ui_base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "um.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "unzdll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "url_lib.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "url_mojom_traits.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "util.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "utilities.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "utility.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "utils.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vccorlib140_app.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vcl100.bpl": {
+        "Program": "",
+        "count": 25,
+        "link": ""
+    },
+    "vcl70.bpl": {
+        "Program": "",
+        "count": 30,
+        "link": ""
+    },
+    "vcldb70.bpl": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "vclsmp100.bpl": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vclsmp70.bpl": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "vclx100.bpl": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "vclx70.bpl": {
+        "Program": "",
+        "count": 4,
+        "link": ""
+    },
+    "vcomp90.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vcruntime140_app.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vdcdecode.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "veyon-core.dll": {
+        "Program": "Veyon",
+        "count": 1,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "viz_common.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vli3.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vo28gui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vo28inet.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vo28ole.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vo28run.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vo28sys.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vorbis.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vorbisenc.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vorbisfile.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "vr_base.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vr_ui.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vtkloguru-9.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vtkpugixml-9.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vtksys-9.0.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vulkan_info.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "vulkan_ycbcr_info.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "wbrhelper.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "webdata_common.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "webgpu.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "webrtc_component.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "websockets.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "winp_syscommon.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "wmeclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ws2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "wsap-recoverit.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "wtclient.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "x3daudio1_6.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "x3daudio1_7.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "xapofx1_5.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    },
+    "xerces-c_2_7.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xerces-c_3_2.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xinput1_3.dll": {
+        "Program": "",
+        "count": 6,
+        "link": ""
+    },
+    "xml.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xmlbin.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xmlkds.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xmlrds.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "xmltable.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "zaphod8dll32.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "ziparchive.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "zipdll.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "zlib1.dll": {
+        "Program": "Veyon",
+        "count": 24,
+        "link": "https://github.com/veyon/veyon/releases/download/v4.5.2/veyon-4.5.2.0-win64-setup.exe"
+    },
+    "zlib1d.dll": {
+        "Program": "",
+        "count": 1,
+        "link": ""
+    },
+    "zlibwapi.dll": {
+        "Program": "",
+        "count": 2,
+        "link": ""
+    }
+}
